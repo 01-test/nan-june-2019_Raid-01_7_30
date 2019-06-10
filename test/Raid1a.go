@@ -2,8 +2,13 @@ package main
 
 import (
 	"fmt"
+	"piscine"
 	student "./student"
 )
+
+func main()  {
+	piscine.Raid1a
+}
 
 func Raid1a(x,y int){
 	for i := 1; i <= y; i++ {
