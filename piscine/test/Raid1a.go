@@ -1,8 +1,7 @@
-package main
+package piscine
 
 import (
 	"fmt"
-	"piscine"
 	student "./student"
 )
 
