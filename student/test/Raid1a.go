@@ -1,10 +1,3 @@
-package piscine
-
-import (
-	"fmt"
-	student "./student"
-)
-
 func Raid1a(x,y int){
 	for i := 1; i <= y; i++ {
 		if x==1 && y!=1 {
