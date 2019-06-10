@@ -1,8 +1,4 @@
-package main
-
-func main(){
-	Raid1a(5,3)
-}
+package Raid01
 
 func Raid1a(x,y int){
 	for i := 1; i <= y; i++ {
