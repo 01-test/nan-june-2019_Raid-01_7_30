@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	piscine "./piscine"
+	piscine "./student"
 )
 
 func Raid1a(x,y int){
